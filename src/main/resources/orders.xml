@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<orders>
+    <order id="1">
+        <client-id>1</client-id>
+        <products>
+            <product>
+                <product-id>1</product-id>
+                <quantity>12</quantity>
+            </product>
+            <product>
+                <product-id>3</product-id>
+                <quantity>2</quantity>
+            </product>
+        </products>
+    </order>
+    <order id="2">
+        <client-id>2</client-id>
+        <products>
+            <product>
+                <product-id>4</product-id>
+                <quantity>10</quantity>
+            </product>
+            <product>
+                <product-id>3</product-id>
+                <quantity>5</quantity>
+            </product>
+        </products>
+    </order>
+    <order id="3">
+        <client-id>3</client-id>
+        <products>
+            <product>
+                <product-id>1</product-id>
+                <quantity>6</quantity>
+            </product>
+            <product>
+                <product-id>2</product-id>
+                <quantity>6</quantity>
+            </product>
+        </products>
+    </order>
+    <order id="4">
+        <client-id>4</client-id>
+        <products>
+            <product>
+                <product-id>3</product-id>
+                <quantity>1</quantity>
+            </product>
+            <product>
+                <product-id>4</product-id>
+                <quantity>1</quantity>
+            </product>
+        </products>
+    </order>
+</orders>

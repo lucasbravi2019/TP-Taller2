@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<clients>
+    <client id="1">
+        <name>Cliente 1</name>
+        <direccion>Dirección 1</direccion>
+        <mayorista>true</mayorista>
+    </client>
+    <client id="2">
+        <name>Cliente 2</name>
+        <direccion>Dirección 2</direccion>
+        <mayorista>true</mayorista>
+    </client>
+    <client id="3">
+        <name>Cliente 3</name>
+        <direccion>Dirección 3</direccion>
+        <mayorista>false</mayorista>
+    </client>
+    <client id="4">
+        <name>Cliente 4</name>
+        <direccion>Dirección 4</direccion>
+        <mayorista>false</mayorista>
+    </client>
+</clients>

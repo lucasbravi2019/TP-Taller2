@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<products>
+    <product id="1">
+        <description>Gaseosa Coca Cola x 2.5L</description>
+        <brand>Coca cola</brand>
+        <product-type>Bebida</product-type>
+        <quantity>2.5</quantity>
+        <metric>L</metric>
+        <price>2500</price>
+        <mayorista>true</mayorista>
+        <min-quantity>6</min-quantity>
+    </product>
+    <product id="2">
+        <description>Gaseosa Coca Cola x 1.25L</description>
+        <brand>Coca cola</brand>
+        <product-type>Bebida</product-type>
+        <quantity>1.25</quantity>
+        <metric>L</metric>
+        <price>1500</price>
+        <mayorista>true</mayorista>
+        <min-quantity>6</min-quantity>
+    </product>
+    <product id="3">
+        <description>Arroz Gallo x 1Kg</description>
+        <brand>Gallo</brand>
+        <product-type>Comestible</product-type>
+        <quantity>400</quantity>
+        <metric>g</metric>
+        <price>1000</price>
+        <mayorista>true</mayorista>
+        <min-quantity>3</min-quantity>
+    </product>
+    <product id="4">
+        <description>Paquete de fideos Canale x 500g</description>
+        <brand>Canale</brand>
+        <product-type>Comestible</product-type>
+        <quantity>500</quantity>
+        <metric>g</metric>
+        <price>800</price>
+        <mayorista>false</mayorista>
+    </product>
+</products>
